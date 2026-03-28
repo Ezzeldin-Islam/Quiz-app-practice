@@ -1,1 +1,1 @@
-[project URL]https://ezzeldin-islam.github.io/Quiz-app-practice/
+[https://ezzeldin-islam.github.io/Quiz-app-practice/]Project URL

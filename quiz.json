@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "answer-1": "Berlin",
+      "answer-2": "Paris",
+      "answer-3": "Madrid",
+      "answer-4": "Rome",
+      "correct_answer": "answer-2"
+    },
+    {
+      "id": 2,
+      "question": "How many continents are there on Earth?",
+      "answer-1": "5",
+      "answer-2": "8",
+      "answer-3": "6",
+      "answer-4": "7",
+      "correct_answer": "answer-4"
+    },
+    {
+      "id": 3,
+      "question": "Which planet is known as the Red Planet?",
+      "answer-1": "Jupiter",
+      "answer-2": "Saturn",
+      "answer-3": "Mars",
+      "answer-4": "Venus",
+      "correct_answer": "answer-3"
+    },
+    {
+      "id": 4,
+      "question": "What is the largest ocean on Earth?",
+      "answer-1": "Atlantic Ocean",
+      "answer-2": "Indian Ocean",
+      "answer-3": "Arctic Ocean",
+      "answer-4": "Pacific Ocean",
+      "correct_answer": "answer-4"
+    },
+    {
+      "id": 5,
+      "question": "How many sides does a hexagon have?",
+      "answer-1": "5",
+      "answer-2": "8",
+      "answer-3": "6",
+      "answer-4": "4",
+      "correct_answer": "answer-3"
+    }
+  ]
+}

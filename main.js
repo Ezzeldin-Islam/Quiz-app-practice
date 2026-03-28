@@ -55,7 +55,6 @@ function renderQuiz() {
 
       function createQuestionContent(currentQuestion) {
         duration;
-        console.log(duration);
         current.innerText = `${currentQuestion} of ${questions.length}`;
         score.innerText = numOfTrue;
 
